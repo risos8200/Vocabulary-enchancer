@@ -1,1 +1,2 @@
 # Vocabulary-enchancer
+This project aims to enhance vocabulary by giving its meaning for the word specified, giving the word of the day, giving a history of past searched words. It also has a basic Dictionary interface, a Count which increases on the basis of the number of searches for every word. I implemented Speech to Text(S-T) and Text to Speech(T-S), using Speech recognition in Python and Google Text to Speech respectively. It can take input of sentences which then removes stop words and gives meaning. All the data is stored in an excel file and further used.
